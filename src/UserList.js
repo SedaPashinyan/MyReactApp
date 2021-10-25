@@ -41,7 +41,7 @@ function UserList(){
                 "        " +
                 "phone: " +
                 "  " +
-                data.phoneNum}
+                data.phoneNumber}
             </p>
             <br />
           </div>
